@@ -8,8 +8,10 @@
 
 | 版本 | 文件 | 下载 |
 |---|---|---|
-| **中文版** | [`AGENTS.zh-CN.md`](AGENTS.zh-CN.md) | [浏览](AGENTS.zh-CN.md) / [直接下载 .md（Raw）](https://raw.githubusercontent.com/JasonBuildAI/agents-md-playbook/main/AGENTS.zh-CN.md) |
-| English | [`AGENTS.en.md`](AGENTS.en.md) | [View](AGENTS.en.md) / [Download .md (Raw)](https://raw.githubusercontent.com/JasonBuildAI/agents-md-playbook/main/AGENTS.en.md) |
+| **中文版** | [`AGENTS.zh-CN.md`](AGENTS.zh-CN.md) | [浏览](AGENTS.zh-CN.md) / [直接下载 .md](https://github.com/JasonBuildAI/agents-md-playbook/releases/latest/download/AGENTS.zh-CN.md) |
+| English | [`AGENTS.en.md`](AGENTS.en.md) | [View](AGENTS.en.md) / [Download .md](https://github.com/JasonBuildAI/agents-md-playbook/releases/latest/download/AGENTS.en.md) |
+
+> 「下载」列点击后直接保存 `.md` 文件（Release 附件链接）；「浏览」列是在线查看。
 
 用法：下载后放进你的项目根目录，重命名为 `AGENTS.md`，再把「槽位」（产品真源路径、闸门命令位置、技能映射、项目红线）替换成你项目的真实情况即可。
 

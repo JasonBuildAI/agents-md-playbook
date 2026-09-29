@@ -8,8 +8,10 @@ A general-purpose "how we work" charter for AI coding agents (Codex / Claude Cod
 
 | Version | File | Download |
 |---|---|---|
-| **English** | [`AGENTS.en.md`](AGENTS.en.md) | [View](AGENTS.en.md) / [Download .md (Raw)](https://raw.githubusercontent.com/JasonBuildAI/agents-md-playbook/main/AGENTS.en.md) |
-| 中文版 | [`AGENTS.zh-CN.md`](AGENTS.zh-CN.md) | [浏览](AGENTS.zh-CN.md) / [直接下载 .md（Raw）](https://raw.githubusercontent.com/JasonBuildAI/agents-md-playbook/main/AGENTS.zh-CN.md) |
+| **English** | [`AGENTS.en.md`](AGENTS.en.md) | [View](AGENTS.en.md) / [Download .md](https://github.com/JasonBuildAI/agents-md-playbook/releases/latest/download/AGENTS.en.md) |
+| 中文版 | [`AGENTS.zh-CN.md`](AGENTS.zh-CN.md) | [浏览](AGENTS.zh-CN.md) / [直接下载 .md](https://github.com/JasonBuildAI/agents-md-playbook/releases/latest/download/AGENTS.zh-CN.md) |
+
+> The Download column points to a release asset - clicking it saves the .md file directly; the View column opens it online.
 
 Usage: download the file, drop it into your project root, rename it to `AGENTS.md`, then replace the "slots" (product source-of-truth path, where gate commands live, skill mapping, project red lines) with your project's real setup.
 
